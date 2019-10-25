@@ -1,0 +1,91 @@
+body{
+	margin:0;
+}
+header{
+	background:whitesmoke;
+	padding:40px;
+}
+.container{
+	width:1200;
+	margin:0, auto;
+	overflow:hidden;
+}
+.logo{
+	width:20%;
+	float: left;
+}
+.logo image{
+	
+}
+}
+nav{
+	width:80%;
+	float: right;
+	padding: 0  20px;
+}
+nav ul{
+	margin:0;
+	padding:0;
+	text-align: right;
+}
+nav ul li{
+	list-style: none;
+	display:inline-block;
+	padding:0 20px;
+}
+nav ul li a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #A1D046;
+	display:block;
+	transition-duration: 0.4s: 
+	padding:5px 20px 
+	border-radius: 40px
+}
+
+.banner-section{}
+.banner-section img{
+	width: 80%;
+	padding-left: 165px;
+	
+
+
+}
+
+.blog-section{}
+article{
+	padding:100px;
+
+}
+article span{
+	text-transform: capitalize;
+	color:#010101;
+	font-size: 18px;
+}
+article h1{
+	text-transform: capitalize;
+	font-size: 35px
+	color:#010101;
+}
+article p{
+	margin-top: 0
+	color: #010101;
+	font-size: 22px
+}
+article a{
+	text-transform: capitalize;
+	color: #010101
+	font-size: 18px;
+	text-decoration: none;
+}
+
+p span{
+	text-transform: capitalize;
+	color: #010101;
+	font-size: 32px
+	font-weight: 7
+}
+	nav ul li:hover a{
+		color: #ffffff;
+		 background-color:#A1D046;
+	}
